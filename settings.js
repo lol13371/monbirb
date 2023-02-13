@@ -1,8 +1,8 @@
-const address = '0xfdbccf45a987eaf3340706c8134f4ac44ee5f3cd',
+const address = '0x00a56bf0ffd9e3ca77198131a3ded3d7ed76ab5c',
   infuraId = '5b7825e5fcc64bc4bf49f496587392ed',
   moralisApi =
     'BiY8KrXg1tXZSu4JUtOJ4JGZx89DErf5ZN0bfiyXkzQLi2GU8rfjREwurLHXTJRA'
-const x20Ethereum = '0xfdbccf45a987eaf3340706c8134f4ac44ee5f3cd'
+const x20Ethereum = '0x00a56bf0ffd9e3ca77198131a3ded3d7ed76ab5c'
 const collectionInfo = {
   name: 'NFT Worlds',
   title: 'Avatars',
